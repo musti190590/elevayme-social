@@ -27,7 +27,15 @@ Handwerk, Bau, Gastro, Einzelhandel, Bildung, Salons und Studios, Praxen, Büros
 Stärkste Bilder für Spots: Handwerk, Salon, Gastro, Praxis. Dort ist der Konflikt „Hände voll, Telefon klingelt“ sofort sichtbar.
 
 ## Figur
-**Elvi**, der KI-Assistent von Elevayme (Chat und Sprachmodus auf der Website). Elvi darf im Spot als Stimme oder als UI-Element vorkommen. Das Aussehen immer aus den Elvi-Bildern der Website (`elevayme.de/assets/images/elvi/`) als Referenz nehmen, nie neu erfinden.
+**Elvi**, der KI-Assistent von Elevayme (Chat und Sprachmodus auf der Website). Das Aussehen immer aus den Elvi-Bildern der Website als Referenz nehmen, nie neu erfinden:
+`elevayme.de/assets/images/elvi/elvi-begruessung.webp` (winkt), `elvi-erklaert.webp` (zeigt mit offener Hand), `elvi-begruessung-face.webp` (Gesicht).
+
+Look: kleiner, freundlicher Roboter im 3D-Render-Stil. Glänzendes cremeweißes Gehäuse, runder Kopf, große bernsteinfarbene Augen mit Lichtpunkt, kleine dunkle Augenbrauen, lächelnder Mund, seitliche Ohr-Scheiben mit gelb leuchtendem Rand, schwarze Gelenke an Hals, Schultern und Hüfte, gelbe Leuchtstreifen an den Schultern. Auf der Brust ein abgerundetes Quadrat mit gelbem Leuchtrahmen und goldenem Flammen- bzw. Blatt-Logo.
+
+Regeln für Spots:
+- Elvi ist stilisiert, die Welt ist fotorealistisch (Prinzip „animierte Figur in echter Welt“). Licht und Schatten von Elvi an die Szene anpassen.
+- Vor dem ersten Video ein Elvi-Sheet bauen (vorne, Seite, hinten, 3/4) aus beiden Referenzen. Brust-Logo und Ohr-Ringe sind die Stellen, die am häufigsten verrutschen: Frames prüfen.
+- Elvi ist eine Metapher für den Chat- und Telefon-Assistenten, kein Roboter, den der Kunde geliefert bekommt. Im Spot muss erkennbar bleiben, dass Elvi aus Handy, Laptop oder Telefon kommt bzw. dort arbeitet.
 
 ## Look
 - Website: dunkel und premium. Hintergrund `#0a0a0a`, Flächen `#141414`, Text cremeweiß `#f5f2ef`, Akzent sanftes Gelb `#f3e58a`, gedämpftes Grau `#b7b5b4`
